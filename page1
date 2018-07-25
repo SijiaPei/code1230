@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+ 
+<head>
+  <title>MY FIRST DAY</title>
+  <link rel="stylesheet" type="text/css" href="style.css"/>
+  </head>
+  
+  <boby>
+    <h1>Urban Modelling Week 1</h1>
+    <p>image 2</p>
+    <image src="https://www.readersdigest.ca/wp-content/uploads/2011/01/4-ways-cheer-up-depressed-cat.jpg"alt="image missing"/>
+      <a href="https://github.com/SijiaPei/code1230">This is my page1</a>
+   </page>
+  </boby>
+</html>
