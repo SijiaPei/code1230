@@ -1,16 +1,35 @@
 <!DOCTYPE html>
 <html>
- 
+
 <head>
-  <title>MY FIRST DAY</title>
-  <link rel="stylesheet" type="text/css" href="style.css"/>
-  </head>
-  
-  <boby>
-    <h1>Urban Modelling Week 1</h1>
-    <p>image 2</p>
-    <image src="https://www.readersdigest.ca/wp-content/uploads/2011/01/4-ways-cheer-up-depressed-cat.jpg"alt="image missing"/>
-      <a href="https://github.com/SijiaPei/code1230">This is my page1</a>
-   </page>
-  </boby>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+<title>My first website</title>
+</head>
+
+<body>
+
+ <div class="topnav" id="myTopnav">
+ <a href="index.html">Home</a>
+ <a href="page1.html">page1</a>
+ <a href="page2.html">page2</a>
+ <a href="page2.html">page3</a>
+ <a href="page2.html">page4</a>
+
+ </div>
+
+
+<h1>This is page 1</h1>
+
+<p>paragraph text here<br><br>
+this is a new line
+</p>
+
+<img src="https://www.readersdigest.ca/wp-content/uploads/2011/01/4-ways-cheer-up-depressed-cat.jpg" alt="image missing!" style="width:25%" />
+
+<footer> 
+<a href="https://github.com/SijiaPei/code1230"> your footer text here</a>
+</footer>
+
+</body>
+
 </html>
