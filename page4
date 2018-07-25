@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+ 
+<head>
+  <title>MY FIRST WESITE</title>
+  <link rel="stylesheet" type="text/css" href="style.css"/>
+  </head>
+  
+  <boby>
+   
+  <div class="topnav" id="myTopnav">
+ <a href="index.html">Home</a>
+ <a href="page1.html">page1</a>
+ <a href="page2.html">page2</a>
+ <a href="page3.html">page3</a>
+ <a href="page4.html">page4</a>
+
+ </div>
+   
+    <h1>Urban Modelling Week 1</h1>
+    
+    <p>image 5</p>
+    <image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUgRJiMSGwOPcu06gIH_sk4lDbsGG-s6mwkxX63PrOoNGNM0gDtQ"alt="image missing"/>
+    <footer>
+      <a href="https://github.com/SijiaPei/code1230">This is my footer</a>
+   </footer>
+  </boby>
+</html>
