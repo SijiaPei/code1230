@@ -495,7 +495,7 @@ p.m_8 {
 	text-align: center;
 	list-style: none;
 	display:inline-block;
-	width:13%;
+	width:18%;
 	outline: none;
 	-webkit-transition: all 0.3s ease-out;
 	-moz-transition: all 0.3s ease-out;
@@ -552,6 +552,7 @@ h2.resp-accordion:hover{
 	.resp-tabs-container{
 		padding:10px;
 	}
+
 ul.resp-tabs-list {
   	display: none;
 }
@@ -1290,6 +1291,10 @@ ul.tab1 h3 {
 .wmuSlider {
 	padding: 6em 0 0;
 }
+
+.resp-tab-item{
+	width:"19%"
+}
 .wmuSlider.example1 {
 	height: 375px !important;
 }
@@ -1371,6 +1376,9 @@ p.m_14 {
 .wmuSlider.example1 {
 	height: 363px !important;
 }
+.resp-tab-item{
+	width:"22%"
+}
 .header {
 	padding:0.5em 0;
 }
@@ -1378,6 +1386,9 @@ p.m_14 {
 @media (max-width:640px){
 .slider-left h1 {
 	font-size: 1.1em;
+}
+.resp-tab-item{
+	width:"25%"
 }
 .wmuSlider {
 	padding: 4em 0 0;
@@ -1404,6 +1415,11 @@ nav a#pull {
 .slider-left h1 {
 	display: none;
 }
+
+.resp-tab-item{
+	width:"30%"
+}
+
 .wmuSlider.example1 {
 	height: 213px !important;
 }
@@ -1457,6 +1473,10 @@ p.m_2, p.m_8, p.m_10{
 .wmuSlider.example1 {
 	height: 167px !important;
 }
+.resp-tab-item{
+	width:"0%"
+}
+
 ul.button {
 	display: none;
 }
